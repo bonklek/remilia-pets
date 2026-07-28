@@ -1,11 +1,18 @@
 # Remilia Pets
 
-An experimental collection of custom animated pets for Codex. The first pet is **Mildred**, a green-haired neochibi companion in a vampire costume, with a blue bow and a mischievous expression.
+An experimental collection of custom animated pets for Codex. It includes **Mildred**, a green-haired neochibi companion in a vampire costume, and **Remy**, a relaxed rough-crayon neochibi companion.
 
-<img src="previews/mildred-idle.png" alt="Mildred preview" width="192">
+<p>
+  <img src="previews/mildred-idle.png" alt="Mildred preview" width="192">
+  <img src="previews/remy-idle.png" alt="Remy preview" width="192">
+</p>
+
+[View Remy's cleaned atlas preview](previews/remy-contact-sheet.png).
 
 ## Repository contents
 
+- `pets/remy/` — the installable Codex pet package
+- `docs/install-remy.md` — download, installation, verification, and troubleshooting
 - `pets/mildred-neochibi/` — the installable Codex pet package
 - `previews/` — cleaned review images derived from the packaged atlas
 - `docs/install-mildred.md` — download, installation, verification, and troubleshooting
@@ -17,7 +24,14 @@ An experimental collection of custom animated pets for Codex. The first pet is *
 
 Generation logs, local paths, source dossiers, prompts, intermediate chroma-key media, and machine-specific files are intentionally excluded.
 
-## Download and install Mildred
+## Download and install
+
+Choose a package and follow its dedicated guide:
+
+- [Install Mildred](docs/install-mildred.md)
+- [Install Remy](docs/install-remy.md)
+
+### Quick install Mildred
 
 For the easiest setup, open the repository on GitHub, select **Code → Download ZIP**, and extract it. Then copy the complete `pets/mildred-neochibi` directory into your local Codex pets directory:
 
