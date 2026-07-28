@@ -1,0 +1,31 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Private pet-production material
+work/
+runs/
+prompts/
+references/private/
+generated/
+decoded/
+frames/
+qa/private/
+*.log
+
+# Archives and accidental exports
+*.zip
+*.tar
+*.tar.gz

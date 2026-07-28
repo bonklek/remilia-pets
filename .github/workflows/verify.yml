@@ -1,0 +1,18 @@
+name: Verify public-safe assets
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check repository text for identity and secret patterns
+        run: python tools/privacy_check.py
+      - name: Verify published asset checksums
+        run: sha256sum --check SHA256SUMS.txt
