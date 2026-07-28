@@ -11,7 +11,7 @@ An experimental collection of custom animated pets for Codex. It includes **Mild
 
 - `pets/remy/` — the installable Codex pet package
 - `docs/install-remy.md` — download, installation, verification, and troubleshooting
-- `pets/mildred-neochibi/` — the installable Codex pet package
+- `pets/mildred/` — the installable Codex pet package
 - `previews/` — cleaned review images derived from the packaged atlas
 - `docs/install-mildred.md` — download, installation, verification, and troubleshooting
 - `docs/create-your-own-pet.md` — a user-facing creation walkthrough
@@ -31,10 +31,10 @@ Choose a package and follow its dedicated guide:
 
 ### Quick install Mildred
 
-For the easiest setup, open the repository on GitHub, select **Code → Download ZIP**, and extract it. Then copy the complete `pets/mildred-neochibi` directory into your local Codex pets directory:
+For the easiest setup, open the repository on GitHub, select **Code → Download ZIP**, and extract it. Then copy the complete `pets/mildred` directory into your local Codex pets directory:
 
-- macOS/Linux: `~/.codex/pets/mildred-neochibi`
-- Windows: `%USERPROFILE%\.codex\pets\mildred-neochibi`
+- macOS/Linux: `~/.codex/pets/mildred`
+- Windows: `%USERPROFILE%\.codex\pets\mildred`
 
 Then open **Settings → Pets**, select **Refresh**, choose **Mildred**, and use `/pet` to wake her.
 
@@ -48,7 +48,7 @@ The final layout must be:
 ```text
 .codex/
   pets/
-    mildred-neochibi/
+    mildred/
       pet.json
       spritesheet.webp
 ```

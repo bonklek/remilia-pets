@@ -4,7 +4,7 @@ Mildred is a custom Codex v2 pet wearing a vampire costume, with green hair, an 
 
 ## Package
 
-- ID: `mildred-neochibi`
+- ID: `mildred`
 - Sprite version: `2`
 - Atlas: `1536×2288` WebP with alpha
 - Cell size: `192×208`
