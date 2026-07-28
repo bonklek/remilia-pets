@@ -7,8 +7,6 @@ An experimental collection of custom animated pets for Codex. It includes **Mild
   <img src="previews/remy-idle.png" alt="Remy preview" width="192">
 </p>
 
-[View Remy's cleaned atlas preview](previews/remy-contact-sheet.png).
-
 ## Repository contents
 
 - `pets/remy/` — the installable Codex pet package
