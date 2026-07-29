@@ -23,7 +23,7 @@
                         "rowPath":  "motion-donors/dani/rows/idle.png",
                         "rowSha256":  "571ee11c894c6f63034947de9abbbca51bd2d5ebbb09be815f1a37c0220efd00",
                         "previewPath":  "previews/dani/idle.gif",
-                        "previewSha256":  "d4a133c8f0c9411f4e3984360d5e0c8abaf274a73e07eff0f93a2f3bf2136515"
+                        "previewSha256":  "8eef23c237b72ba6c6ea1045fa6f0758ce68eeae1aa4358824a483bcb26c5e92"
                     },
                     {
                         "runtimeState":  "running-right",
@@ -33,7 +33,7 @@
                         "rowPath":  "motion-donors/dani/rows/running-right.png",
                         "rowSha256":  "c6a09affdcf49cbe1715a38210987436bb9210fcc08251286e3199ab05f9f076",
                         "previewPath":  "previews/dani/running-right.gif",
-                        "previewSha256":  "1c6cdcad65d3d067ab20e43a7de364b560cb7c3e67f492c9a6724db91b395534"
+                        "previewSha256":  "dabd157218b305a72633bc0ddbce77607a0b7127a4c242f5af66f53624936483"
                     },
                     {
                         "runtimeState":  "running-left",
@@ -43,7 +43,7 @@
                         "rowPath":  "motion-donors/dani/rows/running-left.png",
                         "rowSha256":  "386116ec9b0521ffedd911a3dfe344b03b4d00dfe2f3b425dd3f8b362c4340f8",
                         "previewPath":  "previews/dani/running-left.gif",
-                        "previewSha256":  "42d99ca7522474689280443c9b60038feb4263e00aac59120eafb28422bd07ff"
+                        "previewSha256":  "afe15978f1189409ca428e11c9a712b3d2332e44ba2dc36b164322faa99ae766"
                     },
                     {
                         "runtimeState":  "waving",
@@ -53,7 +53,7 @@
                         "rowPath":  "motion-donors/dani/rows/waving.png",
                         "rowSha256":  "cb3f07be7ba4f495496284e9cb8a0aeca46cce1fa8569510603cec8c8e7a2ddc",
                         "previewPath":  "previews/dani/waving.gif",
-                        "previewSha256":  "f66343a86af83ce345b90c0957253e9ee62869a5fd7ba6da50e0370b90ca0b1d"
+                        "previewSha256":  "5d3d2503e0cf948c012c291c528b661eac6a678a44579a705ce59aa3c583de23"
                     },
                     {
                         "runtimeState":  "jumping",
@@ -63,7 +63,7 @@
                         "rowPath":  "motion-donors/dani/rows/jumping.png",
                         "rowSha256":  "44588e323a32f9268364d8630370838057eb283f84dfcd5e310b9aa7e141cac8",
                         "previewPath":  "previews/dani/jumping.gif",
-                        "previewSha256":  "4b4adb1c8e45514a7b878e49efb91f33a5d8af1e15481623b31775ce8d85b03c"
+                        "previewSha256":  "174ec3ee5aca639a8aa19e99914bfe9ddf2f3aae8377905ebc1e209ae4de391c"
                     },
                     {
                         "runtimeState":  "failed",
@@ -73,7 +73,7 @@
                         "rowPath":  "motion-donors/dani/rows/failed.png",
                         "rowSha256":  "ff4cb276d33cb0040b0ac46e502642eac4a8e8a3a5e5e11d0be2be2844d9e694",
                         "previewPath":  "previews/dani/failed.gif",
-                        "previewSha256":  "e9c356c1425470ff942e8084cd5de4e8d8ef4527dadf2b8e1912644b448dffbe"
+                        "previewSha256":  "34145c6e55e7e1636b10e0b75ffc99d99f7359ea2b276bc9e23e2437dbfa7544"
                     },
                     {
                         "runtimeState":  "waiting",
@@ -83,7 +83,7 @@
                         "rowPath":  "motion-donors/dani/rows/waiting.png",
                         "rowSha256":  "1212c81fce85c4907392060a64efa62b8421020f4d260b07ec2479de80f084d2",
                         "previewPath":  "previews/dani/waiting.gif",
-                        "previewSha256":  "de08128b61ffeba852b187db644d0871641a02d3502e66d550d8d8da551ab504"
+                        "previewSha256":  "9d8e35193c3741bfc4b468523a219ce9c35698c64be0e2a3ae3c57599d6bfab3"
                     },
                     {
                         "runtimeState":  "running",
@@ -93,7 +93,7 @@
                         "rowPath":  "motion-donors/dani/rows/running.png",
                         "rowSha256":  "f1b1eff90ba56bbb42375c38941b0866d96c182d2e208177c2d5117321a534c3",
                         "previewPath":  "previews/dani/running.gif",
-                        "previewSha256":  "8bb67e0526ba5057f1f5e7684cd05cad116245003f07ae43c29d7669bfbd4fd8"
+                        "previewSha256":  "eb417618bca7bc8aca04b8454f4540768d46c96d4936539794baf81dea70779e"
                     },
                     {
                         "runtimeState":  "review",
@@ -103,11 +103,10 @@
                         "rowPath":  "motion-donors/dani/rows/review.png",
                         "rowSha256":  "1a5c7e950cb490c9d90a16b242a252c4103173042a56589344e50470f3e8e9b3",
                         "previewPath":  "previews/dani/review.gif",
-                        "previewSha256":  "0de200fdea6e9d52adc76da377a64bd3b3aea833d765ea0fc5001966949ccb39"
+                        "previewSha256":  "b6ab3a794c4e265722d3a3d5a4717a1e142b42c7e410ff46c880c5649c4dda44"
                     }
                 ],
     "committed":  true,
     "installed":  false,
     "published":  true
 }
-
