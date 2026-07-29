@@ -3,9 +3,9 @@
 An experimental collection of custom animated pets for Codex. It includes **Mildred**, a green-haired neochibi companion in a vampire costume; **Remy**, a relaxed rough-crayon neochibi companion; and **Wiggum**, a sly blond neochibi with angular black glasses.
 
 <p>
-  <img src="previews/mildred-idle.png" alt="Mildred preview" width="192">
-  <img src="previews/remy-idle.png" alt="Remy preview" width="192">
-  <img src="previews/wiggum/idle.gif" alt="Wiggum preview" width="192">
+  <img src="previews/mildred-idle.gif" alt="Mildred idle animation" width="192">
+  <img src="previews/remy-idle.gif" alt="Remy idle animation" width="192">
+  <img src="previews/wiggum/idle.gif" alt="Wiggum idle animation" width="192">
 </p>
 
 ## Repository contents
