@@ -1,13 +1,16 @@
 # Remilia Pets
 
-An experimental collection of custom animated pets for Codex. The highlighted collection includes **Mildred**, **Remy**, **Wiggum**, **Dani**, and **Yumi**. Additional preview builds are kept under [`experimental/`](experimental/README.md) for testing.
+An experimental collection of custom animated pets for Codex. The highlighted collection includes **Mildred**, **Remy**, **Wiggum**, **Dani**, **Yumi**, and **Rizzo**. Additional preview builds are kept under [`experimental/`](experimental/README.md) for testing.
 
 <p>
   <img src="previews/mildred-idle.gif" alt="Mildred idle animation" width="192">
   <img src="previews/remy-idle.gif" alt="Remy idle animation" width="192">
   <img src="previews/wiggum/idle.gif" alt="Wiggum idle animation" width="192">
+</p>
+<p>
   <img src="previews/dani/idle.gif" alt="Dani idle animation" width="192">
   <img src="previews/yumi/idle.gif" alt="Yumi idle animation" width="192">
+  <img src="experimental/previews/rizzo/idle.gif" alt="Rizzo idle animation" width="192">
 </p>
 
 ## Repository contents
