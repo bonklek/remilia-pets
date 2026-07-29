@@ -1,0 +1,114 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "rizzo",
+    "displayName":  "Rizzo",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "experimental-public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "experimental/pets/rizzo/pet.json",
+                    "spritesheet":  "experimental/pets/rizzo/spritesheet.webp",
+                    "spritesheetSha256":  "6d4ae83219306900f72695b66cf6fd8b602e5d6e5d4a628850e7a2824d63884d",
+                    "contactSheet":  "experimental/previews/rizzo/contact-sheet.png",
+                    "directionSheet":  "experimental/previews/rizzo/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "chin-lift-settle",
+                        "observedMovementFamily":  "hip-head-sway-settle",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/idle.png",
+                        "rowSha256":  "38f5e1b910f87d437544acaefaab9cbed2231299a96bee729c1d4d5e31efef3b",
+                        "previewPath":  "experimental/previews/rizzo/idle.gif",
+                        "previewSha256":  "21422d9a7f651681926dc881941390ee13e1b9924d0988e507e18c92c4afc7b3"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "power-walk-right",
+                        "observedMovementFamily":  "upright-cross-step-strut",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/running-right.png",
+                        "rowSha256":  "3957ec3d1569c096adaefe53e7ee5b860d850a055fc3b8153d6e0e692d262bef",
+                        "previewPath":  "experimental/previews/rizzo/running-right.gif",
+                        "previewSha256":  "402e7917804131c8c87650856c70b42e1ac711f6c6c1a1e4de64d85e608ed482"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "crossover-strut-left",
+                        "observedMovementFamily":  "upright-cross-step-strut",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/running-left.png",
+                        "rowSha256":  "6d46e6a4b8b8695d92f62f1a1ec8faee38ac3c7a8c0dbe023e156ed7248a18d9",
+                        "previewPath":  "experimental/previews/rizzo/running-left.gif",
+                        "previewSha256":  "228af35afdb264ff333b49d433b41892d3ac3d2650702b1ab0a6d29061aa8db6"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "dismissive-wrist-flick",
+                        "observedMovementFamily":  "dismissive-wrist-flick",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/waving.png",
+                        "rowSha256":  "6d02da797c583d2c4a7851e8dc010bfcd59ede9a22cffb3103ad7fb4ee736b7d",
+                        "previewPath":  "experimental/previews/rizzo/waving.gif",
+                        "previewSha256":  "c58ae4d17bb5f3d87b9a743a02465ff8e5fde4405b8667ee5d26661022f63ee8"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "heel-click-jump",
+                        "observedMovementFamily":  "heel-click-hop",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/jumping.png",
+                        "rowSha256":  "8f5a9b1f9f45f70daff420ac12356e431f958eb7343d18f7569c1993b0d94a3a",
+                        "previewPath":  "experimental/previews/rizzo/jumping.gif",
+                        "previewSha256":  "7260c56df204f3f8ac762cdfb05191b3742782967cbd0ff74d8454de7c651e21"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "stagger-to-knee",
+                        "observedMovementFamily":  "side-stagger-to-knee",
+                        "novelty":  "distinct",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/failed.png",
+                        "rowSha256":  "7366d1f2b7b9fbfa0b392a828a90e5ce9544be5c234f78274d640f3f706b3944",
+                        "previewPath":  "experimental/previews/rizzo/failed.gif",
+                        "previewSha256":  "4b41cc7e7065edcd71cd4a79dd70661d662fbea0d7361795422a8eaedf2a905d"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "hands-on-hips-toe-drum",
+                        "observedMovementFamily":  "planted-hip-toe-boot-tap",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/waiting.png",
+                        "rowSha256":  "5616033bb4d3e4283aed0ad5ba94076ded9841446ba2421fb277d3ee0dff09fe",
+                        "previewPath":  "experimental/previews/rizzo/waiting.gif",
+                        "previewSha256":  "13039d9ae1f14caa6e87b90ee2b8dcf816293652232787c8f83052842726616b"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "rapid-air-typing",
+                        "observedMovementFamily":  "rapid-air-typing",
+                        "novelty":  "distinct-within-stationary-pantomime",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/running.png",
+                        "rowSha256":  "6e564515ace01384537a12d65784a3e97ac2519d898423b445bfd2a86ce63ed8",
+                        "previewPath":  "experimental/previews/rizzo/running.gif",
+                        "previewSha256":  "d5ed132546cd058ace45633b766ac2afc135c1da6828570877b322ec995d896f"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "slow-clap-nod",
+                        "observedMovementFamily":  "hand-appraisal-slow-clap",
+                        "novelty":  "distinct",
+                        "rowPath":  "experimental/motion-donors/rizzo/rows/review.png",
+                        "rowSha256":  "cd26f3bc78060516e6db75f3b358c738d67bd480ff3a9054616216f2ba2be11f",
+                        "previewPath":  "experimental/previews/rizzo/review.gif",
+                        "previewSha256":  "01edacc02091e8fbcdcf38be798e2d07f1dca17bee8221c6be22fed92c1cbccd"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+
+

@@ -1,0 +1,114 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "moxie",
+    "displayName":  "Moxie",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "experimental-public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "experimental/pets/moxie/pet.json",
+                    "spritesheet":  "experimental/pets/moxie/spritesheet.webp",
+                    "spritesheetSha256":  "4eb19c01b6fc66e321710f43e12688dbcdd9ec8536a6fc4c78fec07cd3d40402",
+                    "contactSheet":  "experimental/previews/moxie/contact-sheet.png",
+                    "directionSheet":  "experimental/previews/moxie/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "contained-horn-sway",
+                        "observedMovementFamily":  "micro-bob-blink-settle",
+                        "novelty":  "saturated",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/idle.png",
+                        "rowSha256":  "8ce006bd38bcee783ef34284fc8c046f961dfc945b6810fa28c72e9250634cf8",
+                        "previewPath":  "experimental/previews/moxie/idle.gif",
+                        "previewSha256":  "4a54fbc21ec7b556dc446395794ed6b261962869fff979da0ed0f60a49f6fe57"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "high-knee-skip-right",
+                        "observedMovementFamily":  "ordinary-high-knee-run",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/running-right.png",
+                        "rowSha256":  "043f38604bd9b83ff6116bfeb01bb4fa1cd89bff7acbb85c23db56fa4c3c7558",
+                        "previewPath":  "experimental/previews/moxie/running-right.gif",
+                        "previewSha256":  "d7d2aa60766c4ffe2eec76964c0154762b221eaa350ce968eda9247414ac4da7"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "low-side-shuffle-left",
+                        "observedMovementFamily":  "ordinary-run-shuffle",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/running-left.png",
+                        "rowSha256":  "3ef3ed9b048ae665c56c2ebb656cfaa92b1793c5d2e830a945c513ca427e608c",
+                        "previewPath":  "experimental/previews/moxie/running-left.gif",
+                        "previewSha256":  "29c302c0d7c809b278f29a047e72c53f0377927bb3e4b6e80be8407140646e9e"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "double-overhead-wave",
+                        "observedMovementFamily":  "double-overhead-wave",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/waving.png",
+                        "rowSha256":  "5608e96dec7491252b447e668cd316c4655358f87188637b7edbaf38cf0a8f3a",
+                        "previewPath":  "experimental/previews/moxie/waving.gif",
+                        "previewSha256":  "b658a9c0a592b29f1fb66e3a9c3aeac3dc35a139e741347f95ddb7c0199ff566"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "starburst-jump",
+                        "observedMovementFamily":  "star-jump",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/jumping.png",
+                        "rowSha256":  "5b5695951ec2da476a5114f430b82eb20e6b8c11bfdc349b6a1a7f38518a9648",
+                        "previewPath":  "experimental/previews/moxie/jumping.gif",
+                        "previewSha256":  "a15339a42949d537a68407d9c4012c1077c4b78de2d1c45277df9b36d5b3e958"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "sleeve-hide-crouch",
+                        "observedMovementFamily":  "cover-face-crouch-and-rise",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/failed.png",
+                        "rowSha256":  "14c5877a4e687c3dedb93cf607bb95a2f02bf8e0b38530896dc112bd4d46cdf8",
+                        "previewPath":  "experimental/previews/moxie/failed.gif",
+                        "previewSha256":  "db1676c6a2792c4b2593d46678c380bdce668be96b616a8a1dd56ad1ab69a4ba"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "crossed-arms-foot-stamp",
+                        "observedMovementFamily":  "crossed-arms-foot-tap",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/waiting.png",
+                        "rowSha256":  "1fb2ad983870b7b869edd18a716fb6889af9dc3380706b91faddf7e7be203839",
+                        "previewPath":  "experimental/previews/moxie/waiting.gif",
+                        "previewSha256":  "0d1deda46fe8ea09a58510fdb6bd14d4d677f31c1f6cfd5c585df67d0d73c415"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "finger-count-brainstorm",
+                        "observedMovementFamily":  "finger-count-brainstorm",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/running.png",
+                        "rowSha256":  "3312f293c23ab93bd3adbc279554e43a537d567486cc51b9eb03fe8535fc59b1",
+                        "previewPath":  "experimental/previews/moxie/running.gif",
+                        "previewSha256":  "17aaf07d12b315327f4fb96b3f3aa36a941a7d86e14c1d739f697fd0b8bf06f6"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "big-ta-da",
+                        "observedMovementFamily":  "open-arm-presentation-ta-da",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "experimental/motion-donors/moxie/rows/review.png",
+                        "rowSha256":  "f750f42bf64d6e220a3349c1b7b35962d6d9d9d5834bf9acec1c830410025d7a",
+                        "previewPath":  "experimental/previews/moxie/review.gif",
+                        "previewSha256":  "6bca070b4d485b003cf0ef27dd80f92638e932d4d202592f58960735ae7961ef"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+
+

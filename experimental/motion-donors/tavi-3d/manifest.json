@@ -1,0 +1,114 @@
+﻿{
+    "schemaVersion": 2,
+    "petId": "tavi-3d",
+    "displayName": "Tavi",
+    "reviewProfile": "preview",
+    "rightsStatus": "redistribution-confirmed",
+    "packageStatus": "experimental-public-preview",
+    "publicationQualified": false,
+    "coveragePolicy": "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package": {
+        "petJson": "experimental/pets/tavi-3d/pet.json",
+        "spritesheet": "experimental/pets/tavi-3d/spritesheet.webp",
+        "spritesheetSha256": "d564cf942e56a5034682f7e6f66ede9e55cb8aaabddb699e7ef918f6c25ebb38",
+        "contactSheet": "experimental/previews/tavi-3d/contact-sheet.png",
+        "directionSheet": "experimental/previews/tavi-3d/look-directions.png"
+    },
+    "actions": [
+        {
+            "runtimeState": "idle",
+            "advertisedActionId": "guarded-breath",
+            "observedMovementFamily": "micro-bob-blink-settle",
+            "novelty": "saturated",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/idle.png",
+            "rowSha256": "878211e21bb2be3837bd81c2dc9ca084f877a36d05783f354198d5cbccc2357b",
+            "previewPath": "experimental/previews/tavi-3d/idle.gif",
+            "previewSha256": "2b4f2c62676d0a47bff13ade01094a0cee643566c02b44ce783637fcedebd5de"
+        },
+        {
+            "runtimeState": "running-right",
+            "advertisedActionId": "low-duck-run-right",
+            "observedMovementFamily": "ordinary-high-knee-run",
+            "novelty": "duplicate",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/running-right.png",
+            "rowSha256": "d295f644adca47cb3f56167130173ff44b0b6b978d8d93e898404c39008520f4",
+            "previewPath": "experimental/previews/tavi-3d/running-right.gif",
+            "previewSha256": "62beac9de2b2271a70d8b70df02f61aefa0eb9820a417a586c9959fa2443b0c5"
+        },
+        {
+            "runtimeState": "running-left",
+            "advertisedActionId": "forward-roll-left",
+            "observedMovementFamily": "ordinary-run-shuffle",
+            "novelty": "duplicate",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/running-left.png",
+            "rowSha256": "72851fca96cad6df08c709a0559aca285655becd75275f2b1c28aab5527ffe0a",
+            "previewPath": "experimental/previews/tavi-3d/running-left.gif",
+            "previewSha256": "9c2190aa5e4cc33f033d77dc0aff40db2660deb6fc2309d1ef5df16204d612fd"
+        },
+        {
+            "runtimeState": "waving",
+            "advertisedActionId": "crisp-salute",
+            "observedMovementFamily": "temple-salute-to-small-wave",
+            "novelty": "near-duplicate",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/waving.png",
+            "rowSha256": "f1da93e5652974b3fdb3d724f9639a3a87df009ba4334591bc251a926d920083",
+            "previewPath": "experimental/previews/tavi-3d/waving.gif",
+            "previewSha256": "76f75ad4086d153a097196791a00e6cb190968ce9938e802c3135aa548279b08"
+        },
+        {
+            "runtimeState": "jumping",
+            "advertisedActionId": "knees-up-jump",
+            "observedMovementFamily": "compact-vertical-tuck-hop",
+            "novelty": "near-duplicate",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/jumping.png",
+            "rowSha256": "54490c26255b2b2ba9a93c22cdbf0c62fafd6d0cd58479f930cbe15734faabbb",
+            "previewPath": "experimental/previews/tavi-3d/jumping.gif",
+            "previewSha256": "45daeeeb695b8ccc98f9870d770f9effbe39c94c9e8b0f18d88ea059c48d6c15"
+        },
+        {
+            "runtimeState": "failed",
+            "advertisedActionId": "flinch-shield-crouch",
+            "observedMovementFamily": "cover-face-crouch-and-rise",
+            "novelty": "heavily-duplicated",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/failed.png",
+            "rowSha256": "ef9431a3f608d50fb1516804f316c6421af4a692d4ce77b25b90ee82324e4b74",
+            "previewPath": "experimental/previews/tavi-3d/failed.gif",
+            "previewSha256": "4e98e52fa6b420a00ffc7faab996702d24cd2b69b45f3a8453d64da09c05289d"
+        },
+        {
+            "runtimeState": "waiting",
+            "advertisedActionId": "strap-check-lookaround",
+            "observedMovementFamily": "vest-strap-check-fidget",
+            "novelty": "distinct",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/waiting.png",
+            "rowSha256": "c39a2e64fa8cc6ac6bd0954fd92aec603a82e3f4f06e2aea6b4294cbf505a11e",
+            "previewPath": "experimental/previews/tavi-3d/waiting.gif",
+            "previewSha256": "971c00932a96f1871d0bee0dcf3bde5920a13cb5452f4467b18ad5315ab8afc5"
+        },
+        {
+            "runtimeState": "running",
+            "advertisedActionId": "vest-inventory-patdown",
+            "observedMovementFamily": "vest-inventory-patdown",
+            "novelty": "distinct-within-stationary-pantomime",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/running.png",
+            "rowSha256": "c3d95b104664a137b3e37b9cbc59b7691e451011590ec174208284538d982971",
+            "previewPath": "experimental/previews/tavi-3d/running.gif",
+            "previewSha256": "66d805be40d5c40d2b422ad435cd1be247a56e29320fbe9d57c37fdcbaa0904f"
+        },
+        {
+            "runtimeState": "review",
+            "advertisedActionId": "attention-and-nod",
+            "observedMovementFamily": "attention-salute-nod",
+            "novelty": "distinct",
+            "rowPath": "experimental/motion-donors/tavi-3d/rows/review.png",
+            "rowSha256": "bb094da1c0855b924d2081cc1f0a89f957bc2c5a7a8b71fefa622f0b48484714",
+            "previewPath": "experimental/previews/tavi-3d/review.gif",
+            "previewSha256": "98b4e6280863531376580a062d7a48a6020ff5c3d4c8a50c30e3aaa95f71e095"
+        }
+    ],
+    "committed": true,
+    "installed": false,
+    "published": true
+}
+
+

@@ -1,0 +1,11 @@
+﻿{
+    "id":  "bremo",
+    "displayName":  "Bremo",
+    "description":  "A source-faithful faceted Remilio-maker devil-girl with a black bob, magenta horns, green hoodie, and baggy black sweatpants.",
+    "spriteVersionNumber":  2,
+    "spritesheetPath":  "spritesheet.webp",
+    "reviewProfile":  "preview",
+    "rights":  "private-review",
+    "distribution":  "local-preview-only",
+    "publicationQualified":  false
+}

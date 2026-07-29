@@ -1,0 +1,11 @@
+﻿{
+    "id":  "yumi",
+    "displayName":  "Yumi",
+    "description":  "A composed, wintry Milady with a dusty blue bob, pink bow earmuffs, and a plain grey jacket with red shoulder accents.",
+    "spriteVersionNumber":  2,
+    "spritesheetPath":  "spritesheet.webp",
+    "reviewProfile":  "preview",
+    "rights":  "private-review",
+    "distribution":  "local-preview-only",
+    "publicationQualified":  false
+}

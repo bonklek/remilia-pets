@@ -1,0 +1,114 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "shilo",
+    "displayName":  "Shilo",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "experimental-public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "experimental/pets/shilo/pet.json",
+                    "spritesheet":  "experimental/pets/shilo/spritesheet.webp",
+                    "spritesheetSha256":  "10a7322c6165b8d5fdc15aa92e49fa2a4bece73babd1aaa7a0ad5b69084de6fc",
+                    "contactSheet":  "experimental/previews/shilo/contact-sheet.png",
+                    "directionSheet":  "experimental/previews/shilo/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "tearful-smile-breath",
+                        "observedMovementFamily":  "micro-bob-blink-settle",
+                        "novelty":  "saturated",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/idle.png",
+                        "rowSha256":  "3cea7cb426fd428cb5f8f2f8e782e16db8a22b0e08817211d3a0ff90b96f894a",
+                        "previewPath":  "experimental/previews/shilo/idle.gif",
+                        "previewSha256":  "12a6bbc3a7673b33b183ffd7170047fd2b7b7ff906a8f09c52a82058e0f99fb4"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "tiptoe-sneak-right",
+                        "observedMovementFamily":  "tiptoe-sneak",
+                        "novelty":  "unique",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/running-right.png",
+                        "rowSha256":  "5f825ee42425c79f44bad58e688c4c61b26312463eec66d64deebd254382b0f0",
+                        "previewPath":  "experimental/previews/shilo/running-right.gif",
+                        "previewSha256":  "2ae5ce6aecae9311ce4384f6a63a03dba990996af51187ac3808189d631f74cf"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "low-crawl-left",
+                        "observedMovementFamily":  "low-hand-knee-crawl",
+                        "novelty":  "unique",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/running-left.png",
+                        "rowSha256":  "e28fd21d8cc260d9eff089729dd7c2f6e67874fa9eb762b083f600d86c768d3c",
+                        "previewPath":  "experimental/previews/shilo/running-left.gif",
+                        "previewSha256":  "a2903bfb70d0cd9ca9e8db040988fc58f826f065fbc1aee78ddbbe0d1d1cdf11"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "tiny-cheek-wave",
+                        "observedMovementFamily":  "conventional-small-single-hand-wave",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/waving.png",
+                        "rowSha256":  "ba1a810d63c58350bef7e4152256a2cbb2bffd3e0001f7b6decc8c0f92e2ead6",
+                        "previewPath":  "experimental/previews/shilo/waving.gif",
+                        "previewSha256":  "b307f28c4b902e8b1dc92143a8f515ac001279fa4e955fc49664506b63ac6080"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "pirouette-jump",
+                        "observedMovementFamily":  "twist-pirouette-hop",
+                        "novelty":  "unique",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/jumping.png",
+                        "rowSha256":  "aeed15925ae3f8a2e6d87ac698110a38d639926a889f7e5bc458184a3adfea25",
+                        "previewPath":  "experimental/previews/shilo/jumping.gif",
+                        "previewSha256":  "86a4d797385c783014dd657e0df3ff7663740f7e25a95d41a4b022ff59ab7f11"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "kneel-cover-eyes",
+                        "observedMovementFamily":  "cover-face-crouch-and-rise",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/failed.png",
+                        "rowSha256":  "367d97de8c83c4f3da7428c0189ea4d54b45ee42fc73c1a49bd1e44f01b636fb",
+                        "previewPath":  "experimental/previews/shilo/failed.gif",
+                        "previewSha256":  "97621b6719bbca0cda6c8e884f3e03d02dd5c4531bd18389de39dd0e48c340f5"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "clasped-hands-heel-rock",
+                        "observedMovementFamily":  "clasped-sleeve-small-rock",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/waiting.png",
+                        "rowSha256":  "926535a9f07513eef96e647dcbaa3f900dfd6d885793ef06fff4e29e3a7e77cf",
+                        "previewPath":  "experimental/previews/shilo/waiting.gif",
+                        "previewSha256":  "575dfd1401e3306a25cc4e228594a35a8b1b018871b0351a3c392618f1f9f14e"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "sleeve-up-focus",
+                        "observedMovementFamily":  "contained-sleeve-hand-fidget",
+                        "novelty":  "distinct-within-stationary-pantomime",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/running.png",
+                        "rowSha256":  "f530045000466c44ace5681ec18890417d7e7afa206333493f48e3f6e61fb7d0",
+                        "previewPath":  "experimental/previews/shilo/running.gif",
+                        "previewSha256":  "71b9a5c1e06064c7df2600a7387d2a9b3ffcc2d60617b03484c66182b9ea1b59"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "shy-formal-bow",
+                        "observedMovementFamily":  "formal-bow",
+                        "novelty":  "unique",
+                        "rowPath":  "experimental/motion-donors/shilo/rows/review.png",
+                        "rowSha256":  "36926ac82a6820b873f201b36b623f399cf005907c5e868685642a07d1e32106",
+                        "previewPath":  "experimental/previews/shilo/review.gif",
+                        "previewSha256":  "3df76a48a0ef0870435a27da75d1568a4d9a1f1521ee1602ea8ae64a4c70e3fa"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+
+

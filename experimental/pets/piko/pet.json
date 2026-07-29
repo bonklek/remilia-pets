@@ -1,0 +1,11 @@
+﻿{
+    "id":  "piko",
+    "displayName":  "Piko",
+    "description":  "A playful, stylish Milady with a plum bob, blank pink-white mesh cap, mustard sunglasses, and plain cream utility shirt.",
+    "spriteVersionNumber":  2,
+    "spritesheetPath":  "spritesheet.webp",
+    "reviewProfile":  "preview",
+    "rights":  "private-review",
+    "distribution":  "local-preview-only",
+    "publicationQualified":  false
+}

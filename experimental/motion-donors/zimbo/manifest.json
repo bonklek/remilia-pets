@@ -1,0 +1,114 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "zimbo",
+    "displayName":  "Zimbo",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "experimental-public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "experimental/pets/zimbo/pet.json",
+                    "spritesheet":  "experimental/pets/zimbo/spritesheet.webp",
+                    "spritesheetSha256":  "bf63ad6112ee8d1f44462cc4c84547500f9830c32ca591b450f43b014f49b7a3",
+                    "contactSheet":  "experimental/previews/zimbo/contact-sheet.png",
+                    "directionSheet":  "experimental/previews/zimbo/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "sleepy-weight-shift",
+                        "observedMovementFamily":  "micro-bob-blink-settle",
+                        "novelty":  "saturated",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/idle.png",
+                        "rowSha256":  "9c09e479aa55f85fb3fc356202a7c6330466f8de837f6a49503026e6a856883d",
+                        "previewPath":  "experimental/previews/zimbo/idle.gif",
+                        "previewSha256":  "bb2e987261ee292c03c478452c4eb07bb7ade009b75a1e44b3193ebc76899e09"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "cartwheel-right",
+                        "observedMovementFamily":  "cartwheel-travel",
+                        "novelty":  "unique",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/running-right.png",
+                        "rowSha256":  "5cc4114d57a145525f46490ead45da76189b5c887a7ef0508a39a3778b7663fe",
+                        "previewPath":  "experimental/previews/zimbo/running-right.gif",
+                        "previewSha256":  "bda1f17bfd233ed76cbcbb1900afc6f2518fd5736fb2677d7d75984b08d61903"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "traveling-jack-left",
+                        "observedMovementFamily":  "traveling-jumping-jack",
+                        "novelty":  "unique",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/running-left.png",
+                        "rowSha256":  "009fc767a1159326303912f63ea127ee972802cc7e27f06057aa79a7cbe96f1b",
+                        "previewPath":  "experimental/previews/zimbo/running-left.gif",
+                        "previewSha256":  "ac318c332896c3f4e6bfdb73465bddcb70c85a106abd4675bfbd568c25d81969"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "two-finger-salute",
+                        "observedMovementFamily":  "temple-salute-to-small-wave",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/waving.png",
+                        "rowSha256":  "7cb6e6e39b91e6d77b1ff7f57c30d6467194a01b1c38827296a1a8375ef2a743",
+                        "previewPath":  "experimental/previews/zimbo/waving.gif",
+                        "previewSha256":  "8d3f79f3f764ad7d3e0a2f13087dcdf0b9d7eb93d673835ed9e2d197f931a527"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "tuck-jump",
+                        "observedMovementFamily":  "compact-vertical-tuck-hop",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/jumping.png",
+                        "rowSha256":  "f7210ac480cd046adf701b9882871598abd6a921d5367e61b23c3849dcf38387",
+                        "previewPath":  "experimental/previews/zimbo/jumping.gif",
+                        "previewSha256":  "e82ac2535a8bc61eacdce7c7e9153cb3fcdf9d9df77719c48e508b0a612166be"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "facepalm-recover",
+                        "observedMovementFamily":  "standing-facepalm-head-rub",
+                        "novelty":  "distinct",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/failed.png",
+                        "rowSha256":  "5c5eceec0fd71daa19b2634de3ab9c7f63d9e035a0e480dd5a4546266f450d68",
+                        "previewPath":  "experimental/previews/zimbo/failed.gif",
+                        "previewSha256":  "330c08d528df821b7e9bb6beafc06cb9a9acf353a659b6648b9f23f7c761a644"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "expectant-look",
+                        "observedMovementFamily":  "expectant-arm-chin-fidget",
+                        "novelty":  "distinct",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/waiting.png",
+                        "rowSha256":  "760d91e6649fa13fcf2d731d7031cc0a56aa29de5b907591b0ab684d55e95bf5",
+                        "previewPath":  "experimental/previews/zimbo/waiting.gif",
+                        "previewSha256":  "67e3c1db5fde0f0001ad543bf2b591d87fd28a49a1ca474e65cbe01f070b3b2b"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "scheme-rub",
+                        "observedMovementFamily":  "scheme-rub-and-think",
+                        "novelty":  "distinct",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/running.png",
+                        "rowSha256":  "9b571e1cba08d8c09b9fb7ac4a2f71c7826188b04d90899842180007a70e3f88",
+                        "previewPath":  "experimental/previews/zimbo/running.gif",
+                        "previewSha256":  "93ae9d38a65104f2b5563ca4470c4a86246e2c75035ace549c2ca9381496cade"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "proud-presentation",
+                        "observedMovementFamily":  "open-arm-presentation-ta-da",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "experimental/motion-donors/zimbo/rows/review.png",
+                        "rowSha256":  "e761ae882cd9c20ad41bed07c6a2b6b071453de603d6215a8691ecfd3f618836",
+                        "previewPath":  "experimental/previews/zimbo/review.gif",
+                        "previewSha256":  "7cf3eed2b6f88c2b4d98d6ec56656b1d8882cc4ed4fb4c8224c64f7296a355c3"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+
+

@@ -1,0 +1,114 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "piko",
+    "displayName":  "Piko",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "experimental-public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "experimental/pets/piko/pet.json",
+                    "spritesheet":  "experimental/pets/piko/spritesheet.webp",
+                    "spritesheetSha256":  "e695a6d88aa2bffdc3e33caa5d6a995fab445e44e4eba9237303318e5630d666",
+                    "contactSheet":  "experimental/previews/piko/contact-sheet.png",
+                    "directionSheet":  "experimental/previews/piko/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "piko-sunglasses-settle-hip-sway",
+                        "observedMovementFamily":  "hip-head-sway-settle",
+                        "novelty":  "duplicate",
+                        "rowPath":  "experimental/motion-donors/piko/rows/idle.png",
+                        "rowSha256":  "2c90514845384d46445b3402cd796156873e19c76955646505c73d6b44829794",
+                        "previewPath":  "experimental/previews/piko/idle.gif",
+                        "previewSha256":  "c43d46ec2003856335e8b318f0b3ea4dd02c2d0521dae242c6e13384d7cb6bd5"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "piko-runway-cross-step-right",
+                        "observedMovementFamily":  "upright-cross-step-strut",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/piko/rows/running-right.png",
+                        "rowSha256":  "55d00fe63e723403ce3bf5d8647c8c0f7ced776a218083a0b30cecbb184b83d3",
+                        "previewPath":  "experimental/previews/piko/running-right.gif",
+                        "previewSha256":  "50c22b9b584b045485628e1a71dd65e83b81e035b25b88828b450929c4d73031"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "piko-backward-grapevine-left",
+                        "observedMovementFamily":  "upright-cross-step-strut",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/piko/rows/running-left.png",
+                        "rowSha256":  "81143a0671f869930cdc80487877bf40bd36281fcb0265ebfed504487efab340",
+                        "previewPath":  "experimental/previews/piko/running-left.gif",
+                        "previewSha256":  "755c6ad9a00e88ad4edbce7c58c1451f5ccb6b7ee6a86dc55a88844838cadc3d"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "piko-wrist-flick-sunglasses-tip",
+                        "observedMovementFamily":  "dismissive-wrist-flick",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/piko/rows/waving.png",
+                        "rowSha256":  "6acdb2b1101658aa91fc8ae97f1df255e5a9c7ef4d2750d12024d8530575aa7f",
+                        "previewPath":  "experimental/previews/piko/waving.gif",
+                        "previewSha256":  "8e9ab0691895b2cb588fd34fb7fb8b2bf8f92c9900104a2c6112267569743d7e"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "piko-crisp-heel-click",
+                        "observedMovementFamily":  "heel-click-hop",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/piko/rows/jumping.png",
+                        "rowSha256":  "b20092e89badab614baf7e907c78f90d18bb1c4e13f003a2027c7c8c93fdb469",
+                        "previewPath":  "experimental/previews/piko/jumping.gif",
+                        "previewSha256":  "42fc8bc85f9bdffe55e036054f22fc97ef2274fe5607bfb620fd8f74d05f8a79"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "piko-fashion-stumble-recovery",
+                        "observedMovementFamily":  "seated-slip-stumble-and-recover",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "experimental/motion-donors/piko/rows/failed.png",
+                        "rowSha256":  "b3fbc5565c750b3e1d86ddfab45fbb7d71e814dfe9642881960eb6bc7692ee53",
+                        "previewPath":  "experimental/previews/piko/failed.gif",
+                        "previewSha256":  "d75709e3481fc26d908a165d5cb70b07aa1246cfdfcc5647fa64ae6479a10b62"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "piko-crossed-ankle-finger-tap",
+                        "observedMovementFamily":  "planted-hip-toe-boot-tap",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "experimental/motion-donors/piko/rows/waiting.png",
+                        "rowSha256":  "a91cf7d59930cb74fbadef4c71d18e2cea382f2b7d959d6a2ccad038fdc96f32",
+                        "previewPath":  "experimental/previews/piko/waiting.gif",
+                        "previewSha256":  "88ba20787219f3768257c523b1057d5644f1a93cd865d5677b0deaf18342d367"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "piko-outfit-checklist-pantomime",
+                        "observedMovementFamily":  "outfit-checklist-pantomime",
+                        "novelty":  "distinct-within-stationary-pantomime",
+                        "rowPath":  "experimental/motion-donors/piko/rows/running.png",
+                        "rowSha256":  "de1de916e5aa9830e66a7009efb3408eb4dc17199bfcd8fa85e3ebf9d82e1efe",
+                        "previewPath":  "experimental/previews/piko/running.gif",
+                        "previewSha256":  "e7c79a0918b37e8ca7932a1778745cb32b0a28d6f116fa435680ca09e7701de5"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "piko-lean-lower-nod",
+                        "observedMovementFamily":  "sunglasses-adjust-lean-nod",
+                        "novelty":  "distinct",
+                        "rowPath":  "experimental/motion-donors/piko/rows/review.png",
+                        "rowSha256":  "c254ce1aeaeca677ef469abbcfe7ee4906ef6791e0925426e8e3ea81cf8ae0da",
+                        "previewPath":  "experimental/previews/piko/review.gif",
+                        "previewSha256":  "46ac21ef9b4ceedf48d6b75e3e5f3b381772b11ffa639d4c4a66dcb62497b597"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+
+
