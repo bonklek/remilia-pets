@@ -1,0 +1,11 @@
+﻿{
+    "id":  "velo",
+    "displayName":  "Velo",
+    "description":  "An earnest, sporty, slightly dazed helmeted Remilio who trains with cheerful concentration.",
+    "spriteVersionNumber":  2,
+    "spritesheetPath":  "spritesheet.webp",
+    "reviewProfile":  "preview",
+    "rights":  "private-review",
+    "distribution":  "local-preview-only",
+    "publicationQualified":  false
+}

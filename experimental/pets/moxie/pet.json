@@ -1,0 +1,11 @@
+﻿{
+    "id":  "moxie",
+    "displayName":  "Moxie",
+    "description":  "An impish coral-pink devil-girl with glossy horns, black bob hair, reflective eyes, and a plain green hoodie.",
+    "spriteVersionNumber":  2,
+    "spritesheetPath":  "spritesheet.webp",
+    "reviewProfile":  "preview",
+    "rights":  "private-review",
+    "distribution":  "local-preview-only",
+    "publicationQualified":  false
+}

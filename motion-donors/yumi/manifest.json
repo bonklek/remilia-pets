@@ -1,0 +1,113 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "yumi",
+    "displayName":  "Yumi",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "pets/yumi/pet.json",
+                    "spritesheet":  "pets/yumi/spritesheet.webp",
+                    "spritesheetSha256":  "18bbb27ed171c8a1ee3da97cc86e88e4d17e703ee6bea3a51318a9822cc6bfcf",
+                    "contactSheet":  "previews/yumi/contact-sheet.png",
+                    "directionSheet":  "previews/yumi/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "earmuff-adjust-shoulder-settle",
+                        "observedMovementFamily":  "micro-bob-blink-settle",
+                        "novelty":  "saturated",
+                        "rowPath":  "motion-donors/yumi/rows/idle.png",
+                        "rowSha256":  "ef5c539fe0ab152aa7efd9df64b84e129db66d0644e4c5e2ab04cb9682070053",
+                        "previewPath":  "previews/yumi/idle.gif",
+                        "previewSha256":  "fd26932977b2d3386dd4cf8e3167c228ecb0023d71c544d9b42f13f1e3d39fe2"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "skate-crossover-right",
+                        "observedMovementFamily":  "leaning-crossover-glide",
+                        "novelty":  "unique",
+                        "rowPath":  "motion-donors/yumi/rows/running-right.png",
+                        "rowSha256":  "f563684e6f74b0614b2ead33d689795584fc94de198ac6b8e6c9d46d5ea65738",
+                        "previewPath":  "previews/yumi/running-right.gif",
+                        "previewSha256":  "7fed98c33f49f875af3390a13c68b31ef9952871bb0d6ed7d3797bb6c5d5b434"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "slalom-glide-left",
+                        "observedMovementFamily":  "leaning-slalom-glide",
+                        "novelty":  "unique",
+                        "rowPath":  "motion-donors/yumi/rows/running-left.png",
+                        "rowSha256":  "fbca10274579497b8c9323b7d4efeb742988b6ebc27f8ce21817ac93e2a401e5",
+                        "previewPath":  "previews/yumi/running-left.gif",
+                        "previewSha256":  "e5dfcf0dcec8f056bd6063f3c55e005f15c2665b5e24362a956a71e3b130e27f"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "temple-salute-small-wave",
+                        "observedMovementFamily":  "temple-salute-to-small-wave",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "motion-donors/yumi/rows/waving.png",
+                        "rowSha256":  "eca7673c79148c0ab0a700d86c745aeadeb40eb60b66f387522830e73c623e84",
+                        "previewPath":  "previews/yumi/waving.gif",
+                        "previewSha256":  "7fe6c335849d8aa2ff8a907e6f231d534ad2131757fd23babbbc37bf2232fb81"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "boardless-snowboard-grab",
+                        "observedMovementFamily":  "boardless-snowboard-grab",
+                        "novelty":  "unique",
+                        "rowPath":  "motion-donors/yumi/rows/jumping.png",
+                        "rowSha256":  "71c4fa3b847fa10bbdf43de7a2e910e5ada3de1165d7296d41aad72ffc0b316f",
+                        "previewPath":  "previews/yumi/jumping.gif",
+                        "previewSha256":  "148197c86ff75f7d73a2f0bf5671eccec3a205f194c1dc807c4e492f7f4362df"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "slip-seated-brace-recover",
+                        "observedMovementFamily":  "seated-slip-stumble-and-recover",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "motion-donors/yumi/rows/failed.png",
+                        "rowSha256":  "87415bd4e981d067fb627597f78a50f00a51ab7873952ce0b62dac1e65b18ba3",
+                        "previewPath":  "previews/yumi/failed.gif",
+                        "previewSha256":  "88f89e2a23fd5e9d490e17217293fa3eb1308c221f4685e358047a4849002151"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "arms-folded-boot-tap-glance",
+                        "observedMovementFamily":  "planted-hip-toe-boot-tap",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "motion-donors/yumi/rows/waiting.png",
+                        "rowSha256":  "d558835a146eeb812564b0fe08956ea623551ec948e3dc0ac3137dfd83afee17",
+                        "previewPath":  "previews/yumi/waiting.gif",
+                        "previewSha256":  "87098086ee5c09dd22a68284f4f6b2fc2fbe996507728035f43662f579324e92"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "cuff-adjust-planning-gestures",
+                        "observedMovementFamily":  "cuff-adjust-planning",
+                        "novelty":  "distinct-within-stationary-pantomime",
+                        "rowPath":  "motion-donors/yumi/rows/running.png",
+                        "rowSha256":  "09516e8135690ca8d35e3f292530bee339918258b26dd51511e242e6f7aa18be",
+                        "previewPath":  "previews/yumi/running.gif",
+                        "previewSha256":  "695d32f4c2eadeaea5e02859061dac90349ecf81e54391a79864823f62a4bb69"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "skeptical-side-eye-approval-nod",
+                        "observedMovementFamily":  "skeptical-side-eye-approval-nod",
+                        "novelty":  "distinct",
+                        "rowPath":  "motion-donors/yumi/rows/review.png",
+                        "rowSha256":  "1dbf4cb4f1e225ed86792203df718e3656bafb2534a53afc3c6593a98b4e87f4",
+                        "previewPath":  "previews/yumi/review.gif",
+                        "previewSha256":  "a6577eba31514cb6c0356a061aed5505b7c78bbfdb4dbc8b23c20b25f6a14c44"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+

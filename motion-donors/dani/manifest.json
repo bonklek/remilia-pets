@@ -1,0 +1,113 @@
+﻿{
+    "schemaVersion":  2,
+    "petId":  "dani",
+    "displayName":  "Dani",
+    "reviewProfile":  "preview",
+    "rightsStatus":  "redistribution-confirmed",
+    "packageStatus":  "public-preview",
+    "publicationQualified":  false,
+    "coveragePolicy":  "Keep valid duplicate choreography as legacy-overlap; do not count it as new movement-family coverage.",
+    "package":  {
+                    "petJson":  "pets/dani/pet.json",
+                    "spritesheet":  "pets/dani/spritesheet.webp",
+                    "spritesheetSha256":  "dbcb2938efcf1e0e95cfe50bb2d9578ed6bf343e3741585e3942a0d2cf58d84e",
+                    "contactSheet":  "previews/dani/contact-sheet.png",
+                    "directionSheet":  "previews/dani/look-directions.png"
+                },
+    "actions":  [
+                    {
+                        "runtimeState":  "idle",
+                        "advertisedActionId":  "puffer-breath-tear-shimmer",
+                        "observedMovementFamily":  "micro-bob-blink-settle",
+                        "novelty":  "saturated",
+                        "rowPath":  "motion-donors/dani/rows/idle.png",
+                        "rowSha256":  "571ee11c894c6f63034947de9abbbca51bd2d5ebbb09be815f1a37c0220efd00",
+                        "previewPath":  "previews/dani/idle.gif",
+                        "previewSha256":  "d4a133c8f0c9411f4e3984360d5e0c8abaf274a73e07eff0f93a2f3bf2136515"
+                    },
+                    {
+                        "runtimeState":  "running-right",
+                        "advertisedActionId":  "cautious-sidestep-right",
+                        "observedMovementFamily":  "cautious-upright-sidestep",
+                        "novelty":  "distinct-within-upright-travel",
+                        "rowPath":  "motion-donors/dani/rows/running-right.png",
+                        "rowSha256":  "c6a09affdcf49cbe1715a38210987436bb9210fcc08251286e3199ab05f9f076",
+                        "previewPath":  "previews/dani/running-right.gif",
+                        "previewSha256":  "1c6cdcad65d3d067ab20e43a7de364b560cb7c3e67f492c9a6724db91b395534"
+                    },
+                    {
+                        "runtimeState":  "running-left",
+                        "advertisedActionId":  "defensive-sidestep-left",
+                        "observedMovementFamily":  "defensive-upright-sidestep",
+                        "novelty":  "distinct-within-upright-travel",
+                        "rowPath":  "motion-donors/dani/rows/running-left.png",
+                        "rowSha256":  "386116ec9b0521ffedd911a3dfe344b03b4d00dfe2f3b425dd3f8b362c4340f8",
+                        "previewPath":  "previews/dani/running-left.gif",
+                        "previewSha256":  "42d99ca7522474689280443c9b60038feb4263e00aac59120eafb28422bd07ff"
+                    },
+                    {
+                        "runtimeState":  "waving",
+                        "advertisedActionId":  "hesitant-to-full-wave",
+                        "observedMovementFamily":  "conventional-small-single-hand-wave",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "motion-donors/dani/rows/waving.png",
+                        "rowSha256":  "cb3f07be7ba4f495496284e9cb8a0aeca46cce1fa8569510603cec8c8e7a2ddc",
+                        "previewPath":  "previews/dani/waving.gif",
+                        "previewSha256":  "f66343a86af83ce345b90c0957253e9ee62869a5fd7ba6da50e0370b90ca0b1d"
+                    },
+                    {
+                        "runtimeState":  "jumping",
+                        "advertisedActionId":  "startled-hop-controlled-landing",
+                        "observedMovementFamily":  "compact-vertical-tuck-hop",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "motion-donors/dani/rows/jumping.png",
+                        "rowSha256":  "44588e323a32f9268364d8630370838057eb283f84dfcd5e310b9aa7e141cac8",
+                        "previewPath":  "previews/dani/jumping.gif",
+                        "previewSha256":  "4b4adb1c8e45514a7b878e49efb91f33a5d8af1e15481623b31775ce8d85b03c"
+                    },
+                    {
+                        "runtimeState":  "failed",
+                        "advertisedActionId":  "collar-crouch-resilient-stand",
+                        "observedMovementFamily":  "cover-face-crouch-and-rise",
+                        "novelty":  "heavily-duplicated",
+                        "rowPath":  "motion-donors/dani/rows/failed.png",
+                        "rowSha256":  "ff4cb276d33cb0040b0ac46e502642eac4a8e8a3a5e5e11d0be2be2844d9e694",
+                        "previewPath":  "previews/dani/failed.gif",
+                        "previewSha256":  "e9c356c1425470ff942e8084cd5de4e8d8ef4527dadf2b8e1912644b448dffbe"
+                    },
+                    {
+                        "runtimeState":  "waiting",
+                        "advertisedActionId":  "clasped-sleeve-questioning-shift",
+                        "observedMovementFamily":  "clasped-sleeve-small-rock",
+                        "novelty":  "near-duplicate",
+                        "rowPath":  "motion-donors/dani/rows/waiting.png",
+                        "rowSha256":  "1212c81fce85c4907392060a64efa62b8421020f4d260b07ec2479de80f084d2",
+                        "previewPath":  "previews/dani/waiting.gif",
+                        "previewSha256":  "de08128b61ffeba852b187db644d0871641a02d3502e66d550d8d8da551ab504"
+                    },
+                    {
+                        "runtimeState":  "running",
+                        "advertisedActionId":  "rapid-empty-hand-sorting",
+                        "observedMovementFamily":  "empty-hand-sorting",
+                        "novelty":  "distinct-within-stationary-pantomime",
+                        "rowPath":  "motion-donors/dani/rows/running.png",
+                        "rowSha256":  "f1b1eff90ba56bbb42375c38941b0866d96c182d2e208177c2d5117321a534c3",
+                        "previewPath":  "previews/dani/running.gif",
+                        "previewSha256":  "8bb67e0526ba5057f1f5e7684cd05cad116245003f07ae43c29d7669bfbd4fd8"
+                    },
+                    {
+                        "runtimeState":  "review",
+                        "advertisedActionId":  "watchful-stare-double-blink-nod",
+                        "observedMovementFamily":  "watchful-scan-blink-nod",
+                        "novelty":  "distinct",
+                        "rowPath":  "motion-donors/dani/rows/review.png",
+                        "rowSha256":  "1a5c7e950cb490c9d90a16b242a252c4103173042a56589344e50470f3e8e9b3",
+                        "previewPath":  "previews/dani/review.gif",
+                        "previewSha256":  "0de200fdea6e9d52adc76da377a64bd3b3aea833d765ea0fc5001966949ccb39"
+                    }
+                ],
+    "committed":  true,
+    "installed":  false,
+    "published":  true
+}
+

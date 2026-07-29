@@ -1,0 +1,11 @@
+﻿{
+    "id":  "dani",
+    "displayName":  "Dani",
+    "description":  "A sensitive, watchful Milady with a periwinkle bowl-bob, large tear-beaded black eyes, and a plain magenta puffer.",
+    "spriteVersionNumber":  2,
+    "spritesheetPath":  "spritesheet.webp",
+    "reviewProfile":  "preview",
+    "rights":  "private-review",
+    "distribution":  "local-preview-only",
+    "publicationQualified":  false
+}

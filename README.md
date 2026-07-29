@@ -1,14 +1,19 @@
 # Remilia Pets
 
-An experimental collection of custom animated pets for Codex. It includes **Mildred**, a green-haired neochibi companion in a vampire costume; **Remy**, a relaxed rough-crayon neochibi companion; and **Wiggum**, a sly blond neochibi with angular black glasses.
+An experimental collection of custom animated pets for Codex. The highlighted collection includes **Mildred**, **Remy**, **Wiggum**, **Dani**, and **Yumi**. Additional preview builds are kept under [`experimental/`](experimental/README.md) for testing.
 
 <p>
   <img src="previews/mildred-idle.gif" alt="Mildred idle animation" width="192">
   <img src="previews/remy-idle.gif" alt="Remy idle animation" width="192">
   <img src="previews/wiggum/idle.gif" alt="Wiggum idle animation" width="192">
+  <img src="previews/dani/idle.gif" alt="Dani idle animation" width="192">
+  <img src="previews/yumi/idle.gif" alt="Yumi idle animation" width="192">
 </p>
 
 ## Repository contents
+
+- `pets/dani/` and `pets/yumi/` — installable Codex v2 pet packages
+- `experimental/` — test packages, previews, and motion-donor rows that are not release-qualified
 
 - `pets/remy/` — the installable Codex pet package
 - `docs/install-remy.md` — download, installation, verification, and troubleshooting
@@ -29,6 +34,8 @@ Choose a package and follow its dedicated guide:
 
 - [Install Mildred](docs/install-mildred.md)
 - [Install Remy](docs/install-remy.md)
+
+Every highlighted package can also be installed by copying its complete `pets/<name>/` directory to `%USERPROFILE%\.codex\pets\<name>` on Windows or `~/.codex/pets/<name>` on macOS/Linux. Experimental packages use the same two-file format but live under `experimental/pets/`; review their warnings before installation.
 
 ### Quick install Mildred
 
