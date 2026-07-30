@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A straw-hatted, round-glasses Remilio with a burgundy shirt and mischievous posture.
+Grey-skinned Remilio with white hair, a conical straw hat, round dark glasses, patterned rust shirt, black shorts, and sandals.
+
+<img src="../experimental/previews/zimbo/snapshot.png" alt="Zimbo snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/zimbo/)
 

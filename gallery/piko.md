@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A playful Milady with a plum bob, blank mesh cap, mustard sunglasses, and utility shirt.
+Milady with a plum bob, pink-and-white mesh cap, mustard sunglasses, cream utility shirt and shorts, and dark shoes.
+
+<img src="../experimental/previews/piko/snapshot.png" alt="Piko snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/piko/)
 

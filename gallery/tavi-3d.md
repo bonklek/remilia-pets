@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-An alert, earnest low-poly 3D Remilio with a blank mesh cap and olive utility vest.
+Low-poly 3D Remilio with pale blond hair, black-and-white mesh cap, pink shirt, olive utility vest and shorts, and dark boots.
+
+<img src="../experimental/previews/tavi-3d/snapshot.png" alt="Tavi snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/tavi-3d/)
 

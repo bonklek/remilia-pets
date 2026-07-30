@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A shy, sweet companion in a blank white cap and plain black hoodie.
+Pale blond companion with a white cap, black hoodie, black bottoms, and white sneakers.
+
+<img src="../experimental/previews/shilo/snapshot.png" alt="Shilo snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/shilo/)
 

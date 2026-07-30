@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A sensitive, watchful Milady with a periwinkle bowl-bob and magenta puffer.
+Periwinkle-haired Milady with a short bowl-bob, huge glossy eyes with tear beads, a magenta puffer jacket, dark trousers, and grey shoes.
+
+<img src="../previews/dani/snapshot.png" alt="Dani snapshot" width="192">
 
 **Package:** [Primary v2 package](../pets/dani/)
 

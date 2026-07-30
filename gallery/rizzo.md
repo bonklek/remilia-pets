@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A deadpan, cocky Remilio in a blank mesh trucker cap, sunglasses, and navy tank.
+Remilio with a red-black mullet, black-and-white mesh cap, amber sunglasses, navy tank, dark jeans, and black boots.
+
+<img src="../experimental/previews/rizzo/snapshot.png" alt="Rizzo snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/rizzo/)
 

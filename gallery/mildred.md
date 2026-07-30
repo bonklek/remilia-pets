@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A friendly green-haired neochibi in a vampire costume with an oversized blue bow.
+Green-haired neochibi with long braids, pointed ears, an oversized blue bow, and a black-and-red vampire cape.
+
+<img src="../previews/mildred/snapshot.png" alt="Mildred snapshot" width="192">
 
 **Package:** [Primary v2 package](../pets/mildred/)
 
