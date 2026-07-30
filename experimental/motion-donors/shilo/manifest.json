@@ -23,7 +23,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/idle.png",
                         "rowSha256":  "3cea7cb426fd428cb5f8f2f8e782e16db8a22b0e08817211d3a0ff90b96f894a",
                         "previewPath":  "experimental/previews/shilo/idle.gif",
-                        "previewSha256":  "12a6bbc3a7673b33b183ffd7170047fd2b7b7ff906a8f09c52a82058e0f99fb4"
+                        "previewSha256":  "d4002480fba2582cc57dcbd2659efa236e80ab36d2b7d36e08c2a3c6be8cfb0e"
                     },
                     {
                         "runtimeState":  "running-right",
@@ -33,7 +33,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/running-right.png",
                         "rowSha256":  "5f825ee42425c79f44bad58e688c4c61b26312463eec66d64deebd254382b0f0",
                         "previewPath":  "experimental/previews/shilo/running-right.gif",
-                        "previewSha256":  "2ae5ce6aecae9311ce4384f6a63a03dba990996af51187ac3808189d631f74cf"
+                        "previewSha256":  "043cd07fdc8ae1e9c4997c82fe105a7c353bf9890fe4fc2b69c003e81d3ec170"
                     },
                     {
                         "runtimeState":  "running-left",
@@ -43,7 +43,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/running-left.png",
                         "rowSha256":  "e28fd21d8cc260d9eff089729dd7c2f6e67874fa9eb762b083f600d86c768d3c",
                         "previewPath":  "experimental/previews/shilo/running-left.gif",
-                        "previewSha256":  "a2903bfb70d0cd9ca9e8db040988fc58f826f065fbc1aee78ddbbe0d1d1cdf11"
+                        "previewSha256":  "cf5eaa0c8cfb2ceed3777104ec61f590aba9e7b9381678e95642a2898aa2e15b"
                     },
                     {
                         "runtimeState":  "waving",
@@ -53,7 +53,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/waving.png",
                         "rowSha256":  "ba1a810d63c58350bef7e4152256a2cbb2bffd3e0001f7b6decc8c0f92e2ead6",
                         "previewPath":  "experimental/previews/shilo/waving.gif",
-                        "previewSha256":  "b307f28c4b902e8b1dc92143a8f515ac001279fa4e955fc49664506b63ac6080"
+                        "previewSha256":  "47376a34cb1034330829a7d4211b3091d65eb0854227063f304217ef909e02c4"
                     },
                     {
                         "runtimeState":  "jumping",
@@ -63,7 +63,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/jumping.png",
                         "rowSha256":  "aeed15925ae3f8a2e6d87ac698110a38d639926a889f7e5bc458184a3adfea25",
                         "previewPath":  "experimental/previews/shilo/jumping.gif",
-                        "previewSha256":  "86a4d797385c783014dd657e0df3ff7663740f7e25a95d41a4b022ff59ab7f11"
+                        "previewSha256":  "eac706ae625f33d265090f47fc0376878cc7804b251a68cb54be3545dafc4993"
                     },
                     {
                         "runtimeState":  "failed",
@@ -73,7 +73,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/failed.png",
                         "rowSha256":  "367d97de8c83c4f3da7428c0189ea4d54b45ee42fc73c1a49bd1e44f01b636fb",
                         "previewPath":  "experimental/previews/shilo/failed.gif",
-                        "previewSha256":  "97621b6719bbca0cda6c8e884f3e03d02dd5c4531bd18389de39dd0e48c340f5"
+                        "previewSha256":  "b90c05980e80c815b821102f5d552fe8acc208c7c16d047c387eca30ec7b5c41"
                     },
                     {
                         "runtimeState":  "waiting",
@@ -83,7 +83,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/waiting.png",
                         "rowSha256":  "926535a9f07513eef96e647dcbaa3f900dfd6d885793ef06fff4e29e3a7e77cf",
                         "previewPath":  "experimental/previews/shilo/waiting.gif",
-                        "previewSha256":  "575dfd1401e3306a25cc4e228594a35a8b1b018871b0351a3c392618f1f9f14e"
+                        "previewSha256":  "c53d5f06e935ff7d805a096a3afcd33771f76873828f7aafb91f9ca0c6ac6f74"
                     },
                     {
                         "runtimeState":  "running",
@@ -93,7 +93,7 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/running.png",
                         "rowSha256":  "f530045000466c44ace5681ec18890417d7e7afa206333493f48e3f6e61fb7d0",
                         "previewPath":  "experimental/previews/shilo/running.gif",
-                        "previewSha256":  "71b9a5c1e06064c7df2600a7387d2a9b3ffcc2d60617b03484c66182b9ea1b59"
+                        "previewSha256":  "3548e292729aca17aa9a429578f82e12b815b27d4166a6598c57978f8531dc81"
                     },
                     {
                         "runtimeState":  "review",
@@ -103,12 +103,10 @@
                         "rowPath":  "experimental/motion-donors/shilo/rows/review.png",
                         "rowSha256":  "36926ac82a6820b873f201b36b623f399cf005907c5e868685642a07d1e32106",
                         "previewPath":  "experimental/previews/shilo/review.gif",
-                        "previewSha256":  "3df76a48a0ef0870435a27da75d1568a4d9a1f1521ee1602ea8ae64a4c70e3fa"
+                        "previewSha256":  "113115f4c8233b0d9514e80c85cbfc93951d4826ced4a1481b36b0ec4c58844f"
                     }
                 ],
     "committed":  true,
     "installed":  false,
     "published":  true
 }
-
-

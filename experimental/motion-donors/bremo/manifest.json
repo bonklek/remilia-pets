@@ -23,7 +23,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/idle.png",
                         "rowSha256":  "7314f7d2da2bc475823e42b565c9dce75ecbce14272964cd486f066d99cb5c00",
                         "previewPath":  "experimental/previews/bremo/idle.gif",
-                        "previewSha256":  "97adc159e94f03798b670e72f81373ec77a1f3eebf648b78d6c8efa85d32a6e3"
+                        "previewSha256":  "c0caba650d35ec9754b9cffdc4a2293834e871b9b18516103ff0799b2ff19d22"
                     },
                     {
                         "runtimeState":  "running-right",
@@ -33,7 +33,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/running-right.png",
                         "rowSha256":  "d5299c4e1cb307a522d94bb07f0aeed5cb70293628874a4ec90180c1df28dc18",
                         "previewPath":  "experimental/previews/bremo/running-right.gif",
-                        "previewSha256":  "603f1df069764b9c1b322a647d5586a0eb7ac0943d9c629fc5c0591f59f44bae"
+                        "previewSha256":  "45cbed92acb90ab0c271679cfa68a83fa51cad2840c07c865ec359bcbed6f333"
                     },
                     {
                         "runtimeState":  "running-left",
@@ -43,7 +43,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/running-left.png",
                         "rowSha256":  "ab800ad6b80f72570cc7e14ee0b523c1a76230900f2ca9446ae43d746a4d890b",
                         "previewPath":  "experimental/previews/bremo/running-left.gif",
-                        "previewSha256":  "cb0ec56308bff211349582a5d44146888f7c40df59a7c91f26dc59956fc0ede4"
+                        "previewSha256":  "911f2813e76a72f4505640ea547c7428da3274fb8024c0b8fc88585449c3ff1e"
                     },
                     {
                         "runtimeState":  "waving",
@@ -53,7 +53,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/waving.png",
                         "rowSha256":  "b63818a3f96b75b11115ef340c72362b769cace4b7994a9e4d870418e9f6cb0a",
                         "previewPath":  "experimental/previews/bremo/waving.gif",
-                        "previewSha256":  "67b441d2a7dc7f6dbcc6698925390ec50fa7b153f325cb9beca20551a37d8d04"
+                        "previewSha256":  "e3c0de2d9fb7a01d9c21972c7da1352b624249169e608c74e3edb8e60addbee5"
                     },
                     {
                         "runtimeState":  "jumping",
@@ -63,7 +63,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/jumping.png",
                         "rowSha256":  "b440a6a20f860a162e491f90e323abe2db0246b84e43aaaccbd9461050b48fba",
                         "previewPath":  "experimental/previews/bremo/jumping.gif",
-                        "previewSha256":  "110becd63e4389214bc1bb5c621ff3a3173753422a3532307d66cb1fd498930b"
+                        "previewSha256":  "6b0212ec3aec7a314256c031ff6fa88f417495a6211b60b7e4e666d1ff8fcdab"
                     },
                     {
                         "runtimeState":  "failed",
@@ -73,7 +73,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/failed.png",
                         "rowSha256":  "343c8ad424131aa5110178bcb9c30c37720d46edccf69097c3e1faee49b428df",
                         "previewPath":  "experimental/previews/bremo/failed.gif",
-                        "previewSha256":  "fdf3946b9b24b6eb895e0ecac58e3f2e9940f8ff113a6817d64cee96992f61fd"
+                        "previewSha256":  "8acdc8272412e042c70aa009fcdc4ecc6c1306b39eccee99256c3c7422d5e6f0"
                     },
                     {
                         "runtimeState":  "waiting",
@@ -83,7 +83,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/waiting.png",
                         "rowSha256":  "934ae5666eb503add282f718291a5be9f34dd1f593cf1fb2ab4bfd4277d50979",
                         "previewPath":  "experimental/previews/bremo/waiting.gif",
-                        "previewSha256":  "0b9fe98e75bb32a76c759084a6bbd8732357608eeca3c84b200f3ec1c370956c"
+                        "previewSha256":  "1afa6ab964c3a820026e9351952d6a8aed7a310f7f4e75773081b8dc2c0abe60"
                     },
                     {
                         "runtimeState":  "running",
@@ -93,7 +93,7 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/running.png",
                         "rowSha256":  "3a08d3ac3adb809afba193d489647b65d7c3c96827766d2e7ba7fc735906463e",
                         "previewPath":  "experimental/previews/bremo/running.gif",
-                        "previewSha256":  "d346c4747e147d98b76f8d20ce2e9ac03008870cb20e859efa535d3735b80ca7"
+                        "previewSha256":  "37735d730201720e630d1255c7696c024700c39f17a9bb1304c6d364abb0c7f2"
                     },
                     {
                         "runtimeState":  "review",
@@ -103,12 +103,10 @@
                         "rowPath":  "experimental/motion-donors/bremo/rows/review.png",
                         "rowSha256":  "e8daac4f3822c07e6e07a920f1ff6df96df71217b8d702310e0c38feae74920d",
                         "previewPath":  "experimental/previews/bremo/review.gif",
-                        "previewSha256":  "48f8efc7c70d3f1f466e07f809a0430ab8dde7ef504fcabd4e3e98d2e6089358"
+                        "previewSha256":  "590242425ea9864ae89966c896a81d9d3f9c65de51030e44ae4e3aad4d55a717"
                     }
                 ],
     "committed":  true,
     "installed":  false,
     "published":  true
 }
-
-

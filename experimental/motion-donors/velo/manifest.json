@@ -23,7 +23,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/idle.png",
                         "rowSha256":  "b4f01ccf8f99ae7e0f98162fc725284cda050ca2d83465a81c752dbe2f464f7f",
                         "previewPath":  "experimental/previews/velo/idle.gif",
-                        "previewSha256":  "0eca54d64e84b7072e4098105111a2e5018f8262a5d3a6147831ede6f54a2b67"
+                        "previewSha256":  "1cfeb79dd3ec6a99250c54baf2f1d11b494fbe254ec65283bcbace42ebee1a8b"
                     },
                     {
                         "runtimeState":  "running-right",
@@ -33,7 +33,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/running-right.png",
                         "rowSha256":  "09375059325dabab73df37536c38430ca5d83a77a79a4f0ed4eeb4c59b956c27",
                         "previewPath":  "experimental/previews/velo/running-right.gif",
-                        "previewSha256":  "b3f5e08cda3636fd8535749e3a0bee21797cd374cc02dfce18f3b4fdc1ccc16d"
+                        "previewSha256":  "0b2546e707c86231ef42e09fce8577acae73caa84f8a5e6b67be3da25d917634"
                     },
                     {
                         "runtimeState":  "running-left",
@@ -43,7 +43,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/running-left.png",
                         "rowSha256":  "a62f280e892658c8543e30d846ba23a107d29c07c94dcfdb2e6d3ca76db26e55",
                         "previewPath":  "experimental/previews/velo/running-left.gif",
-                        "previewSha256":  "2d6f4586dd5b2b0f2755fbfe9ed86574a48014d27581299f4ff5e7b4b757aed0"
+                        "previewSha256":  "f89dbcdbebb386d7a0ab87ca47f09222e4459f6d4286fab933721e2d27da247f"
                     },
                     {
                         "runtimeState":  "waving",
@@ -53,7 +53,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/waving.png",
                         "rowSha256":  "14f19d6d2fb66bccc7e1f9f5e89c6b879151baaa39efd9b911bf38645cb542d9",
                         "previewPath":  "experimental/previews/velo/waving.gif",
-                        "previewSha256":  "9ebd6f47f2c40f1659baf5ae91642c4acdab433ddce8bf1c876df7b971875259"
+                        "previewSha256":  "2697f07e21c82ca21ea85a60014c062c4a9a0d21670e954ec795246b56cd7939"
                     },
                     {
                         "runtimeState":  "jumping",
@@ -63,7 +63,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/jumping.png",
                         "rowSha256":  "e4d5414b2557733d58e3bf35d860103fe131dd85d7a860af05c11aa9c5b33d65",
                         "previewPath":  "experimental/previews/velo/jumping.gif",
-                        "previewSha256":  "a4f82a98c444d5b3e60a104f0d8a6730f5ccb159815917c813e08c9c79fe3903"
+                        "previewSha256":  "820030a5f280845300edc781581ee699bab168886ad0eddd3fd66178c55d9bd2"
                     },
                     {
                         "runtimeState":  "failed",
@@ -73,7 +73,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/failed.png",
                         "rowSha256":  "48114bda540d73f81497f0157111f4296aac9a05e142faa2dd07101314afd492",
                         "previewPath":  "experimental/previews/velo/failed.gif",
-                        "previewSha256":  "bed2403af3588ecf2fe08f056d2d20bbb92388d30b0755674e7e73d558a265b4"
+                        "previewSha256":  "709eb4858e9fd561c802e7352ef14197a69d65ef59d7e73ae42a38c3ca7ddf42"
                     },
                     {
                         "runtimeState":  "waiting",
@@ -83,7 +83,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/waiting.png",
                         "rowSha256":  "195cbe88e6627ea49e6733232a5a370eca490b0aa490545b8625281741d8d157",
                         "previewPath":  "experimental/previews/velo/waiting.gif",
-                        "previewSha256":  "0c940bff42c7e67218ae058265250e80ef57c6e62efd708ebe5e8461b4879596"
+                        "previewSha256":  "39539eab81a884403ba69bb675c51fc27722befa8a99e26987b284c4581e385c"
                     },
                     {
                         "runtimeState":  "running",
@@ -93,7 +93,7 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/running.png",
                         "rowSha256":  "c20564d3ac716a81b9059575cf60ea7d69728785fa573ebb9b8e531c7949e2bd",
                         "previewPath":  "experimental/previews/velo/running.gif",
-                        "previewSha256":  "595176331a11f2d32b6eface602f15fd13fff4997833891549fcfe4ad9e9db4e"
+                        "previewSha256":  "f361d43d77778dc1d0371bba6e8be4aa871aef1e82bdef82161c828494e665e0"
                     },
                     {
                         "runtimeState":  "review",
@@ -103,12 +103,10 @@
                         "rowPath":  "experimental/motion-donors/velo/rows/review.png",
                         "rowSha256":  "1f4066da3eb7d75a84360dd84548ec37786deee375b6aea8c6f109da3f57c4e9",
                         "previewPath":  "experimental/previews/velo/review.gif",
-                        "previewSha256":  "b6bf06d39d209b2419bba2b872edc190fcbf2a579953780a0e36e81cbe2a89d4"
+                        "previewSha256":  "924762d91df715b092e083fe7f37132065cb4d5b2ded68dce6c5fcbbdd123869"
                     }
                 ],
     "committed":  true,
     "installed":  false,
     "published":  true
 }
-
-
