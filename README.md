@@ -74,7 +74,16 @@ Codex pets use a deliberately compact frame budget. Depending on the state, stan
 
 ## Create your own
 
-See [Create your own Codex pet](docs/create-your-own-pet.md). If you are working with Codex inside this repository, ask it to follow `AGENTS.md` and the installed `hatch-pet` workflow.
+See [Create a Codex pet from a PFP](docs/create-your-own-pet.md) for a copy-paste Codex prompt, motion-planning advice, review options, installation steps, and publication safeguards.
+
+Start with your own art or one of the Remilia character makers:
+
+- [Milady Maker](https://maker.remilia.org/milady)
+- [Remilio Maker](https://maker.remilia.org/remilio)
+- [Bonkler Factory](https://maker.remilia.org/bonkler)
+- [Kagami Academy Maker](https://maker.remilia.org/kagami)
+
+If you are working with Codex inside this repository, ask it to follow `AGENTS.md` and the installed `hatch-pet` workflow.
 
 ## Privacy and license
 

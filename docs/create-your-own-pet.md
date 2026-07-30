@@ -1,65 +1,94 @@
-# Create your own Codex pet
+# Create a Codex pet from a PFP
 
-There are two useful paths: the guided desktop flow and the full production workflow.
+This guide turns one profile picture into a local animated Codex pet. You do not need to draw a spritesheet or choose every technical setting yourself: attach the image, give Codex a short brief, and let the repository's pet workflow handle the poses, validation, previews, and package.
 
-## Quick desktop flow
+## 1. Make or choose your PFP
 
-1. Open **Settings → Pets** in the ChatGPT desktop app.
-2. Select **Create your own pet**.
-3. Describe the character, colors, silhouette, style, personality, and distinctive features.
-4. Let the generated pet task finish.
-5. Return to **Settings → Pets**, select **Refresh**, and choose the new pet.
-6. Use `/pet` to wake or hide it.
+You can use your own artwork or start with one of the Remilia makers:
 
-Custom pets created in the desktop app are stored locally and do not automatically sync to the web.
+- [Milady Maker](https://maker.remilia.org/milady)
+- [Remilio Maker](https://maker.remilia.org/remilio)
+- [Bonkler Factory](https://maker.remilia.org/bonkler)
+- [Kagami Academy Maker](https://maker.remilia.org/kagami)
 
-## A strong pet brief
+The maker navigation also links these collections from the [main Milady Maker page](https://maker.remilia.org/). Use the random picker or trait controls, then download the highest-resolution version available.
 
-Include:
+For the cleanest pet:
 
-- a short name
-- species or character type
-- a compact full-body silhouette
-- palette and material or drawing style
-- face and eye construction
-- hair, ears, headwear, clothing, markings, or props that must remain consistent
-- personality and emotional range
-- explicit avoidances such as text, logos, scenery, or detached effects
-- the intended rights scope: private review, internal use, or cleared publication
+- Prefer a single character on a plain or transparent background.
+- Avoid meme panels, captions, UI, scenery, and extra overlays.
+- Keep the face, hair, headwear, clothing, markings, and silhouette easy to see.
+- Start without a handheld prop if you want to add, remove, or swap props later.
+- A bust or head-and-shoulders PFP can work, but a visible full-body reference gives the agent less anatomy to infer.
+- Keep the original image outside the repository unless you have permission to redistribute it.
 
-Example:
+## 2. Give the PFP to Codex
 
-> Create a friendly moth librarian with charcoal wings, warm amber eyes, oversized round glasses, and a tiny canvas satchel. Use rough storybook ink, a compact full-body silhouette, and gentle, slightly anxious expressions. Keep the same glasses, markings, palette, and proportions in every animation. No text, logos, scenery, shadows, or detached sparkles. Private review only.
+Download or clone this repository, open its folder in the Codex desktop app, create a task, and attach the PFP. Then paste this prompt:
 
-## Remilia inspiration
+> Follow `AGENTS.md` and the installed `hatch-pet` and `$imagegen` workflows. Turn the attached PFP into a complete Codex v2 pet. Start with the `preview` review profile and do not publish anything. Ask me short questions about the pet's name, personality, identity-defining traits, prop policy, and motion choices before generating. Preserve the same character, style, palette, face, proportions, outfit, and accessories across every pose. Keep a visible four-stage checklist, validate each row, complete the four cardinals and sixteen-direction look system, run final despill and QA, and package `pet.json` with `spritesheet.webp` only after the hard gates pass.
 
-For Remilia-inspired pets, we recommend using the assets from [Remilia Achievements](https://achievements.remilia.org/) as inspiration. Browse its achievement art and collection traits for ideas about palette, silhouette, clothing, props, expressions, and personality, then translate those cues into a compact original pet design that remains readable at Codex pet size.
+Codex should ask only for decisions it cannot safely infer. A useful intake covers:
 
-## Full v2 workflow with an agent
+1. The pet's short name and one-sentence description.
+2. The traits that must never drift from the PFP.
+3. Its personality and emotional range.
+4. Whether a visible prop is permanent, removable, or excluded from the first version.
+5. The desired motion for each runtime state.
+6. Whether the result is private, internal, or cleared for publication.
 
-Inside a project that contains this repository, ask Codex:
+## 3. Choose motions with personality
 
-> Follow `AGENTS.md` and the installed `hatch-pet` and `$imagegen` workflows. Help me turn the following concept into a complete private-review Codex v2 pet. Keep a visible four-stage checklist, validate every row incrementally, complete the cardinal and sixteen-direction system, run blind and independent final QA, and package only after all hard gates pass: `<your concept>`.
+Codex uses nine runtime states, but the animation does not have to be literal. The state name tells the app when to play the row; you can choose a different behavior that still communicates the state clearly.
 
-The agent should:
+| Runtime state | What it must communicate | Example custom behaviors |
+| --- | --- | --- |
+| `idle` | Calm resting loop | breathing, hat adjustment, checking a pocket |
+| `running-right` | Movement and screen-right orientation | skating, cartwheeling, moonwalking right |
+| `running-left` | Movement and screen-left orientation | slalom glide, scooter ride, leftward dance step |
+| `waving` | Greeting or acknowledgment | salute, bow, peace sign, wrist flick |
+| `jumping` | Clear airborne action | heel click, tuck jump, boardless grab |
+| `failed` | Setback or recovery | stumble, crouch, facepalm, resilient stand |
+| `waiting` | Needs approval or user input | checking a watch, toe tapping, expectant shrug |
+| `running` | Active task work | sorting, typing pantomime, planning gestures |
+| `review` | Inspection or evaluation | skeptical scan, slow nod, thoughtful appraisal |
 
-1. Confirm or infer the name, description, references, style, and rights scope.
-2. Create a canonical base image as the identity source of truth.
-3. Generate and validate the nine standard animation rows.
-4. Write a character-specific look-mechanics plan.
-5. Generate and approve the four cardinal anchors.
-6. Generate both coherent look-direction rows.
-7. Assemble the 8×11 v2 atlas deterministically.
-8. Run chroma cleanup, structural validation, contact-sheet review, motion review, direction semantics, three blind reviews, and independent final visual QA.
-9. Package `pet.json` and `spritesheet.webp` together.
+The left and right rows may use different activities, but each must unmistakably face or travel toward its assigned screen edge. Avoid repeating a movement already present in the repository if your goal is to contribute a reusable motion template.
 
-## Frame-rate expectations
+## 4. Let the workflow hatch the pet
 
-The Codex pet format uses fixed, small animation budgets. Waving uses four frames, jumping uses five, common idle/work states use six, and directional running uses eight. Timing is controlled by the app, not `pet.json`. Smoothness comes from thoughtful pose spacing, easing, loop closure, and secondary motion rather than adding unlimited frames.
+The task should maintain this checklist:
 
-## Installing a packaged pet
+1. Getting `<pet>` ready.
+2. Imagining `<pet>`'s main look.
+3. Picturing `<pet>`'s poses.
+4. Hatching `<pet>`.
 
-A package directory contains:
+The workflow will:
+
+- make a clean, compact full-body canonical reference from the PFP
+- generate and validate all nine standard animation rows
+- define how the character naturally looks up, right, down, and left
+- create two coherent look rows covering all sixteen directions
+- assemble and despill a transparent 1536x2288 v2 atlas
+- create contact sheets, direction sheets, and motion GIFs for review
+- package the final pet only after deterministic and visual checks pass
+
+Do not treat a generated atlas as complete merely because it opens. The four cardinal directions, row semantics, transparency, registration, and `spriteVersionNumber: 2` are hard requirements.
+
+## Review cost and quality
+
+Choose the review profile before generation:
+
+- `preview` is the default for local experiments. It uses deterministic validation, one labeled visual review, no blind reviewers, and bounded retries.
+- `standard` adds one blind direction review for more polished private or internal use.
+- `publication` uses three isolated blind direction reviews plus independent final QA and is required before publishing a package here.
+
+If a preview reaches its retry limit with a subjective warning, inspect the best candidate yourself instead of starting an unlimited review loop.
+
+## What you receive
+
+The installable folder contains exactly:
 
 ```text
 my-pet/
@@ -67,19 +96,26 @@ my-pet/
   spritesheet.webp
 ```
 
-Copy that complete directory into:
+The package's `pet.json` must set `spriteVersionNumber` to `2`. Keep the contact sheet, direction sheet, motion GIFs, validation report, and donor manifest as QA evidence; they do not belong inside the two-file installable folder.
 
-- macOS/Linux: `~/.codex/pets/`
-- Windows: `%USERPROFILE%\.codex\pets\`
+## Install the pet
 
-Refresh **Settings → Pets**, then choose the pet.
+Copy the complete package directory into:
 
-## Web uploads
+- macOS/Linux: `~/.codex/pets/<pet-name>/`
+- Windows: `%USERPROFILE%\.codex\pets\<pet-name>\`
 
-The web pet uploader uses a different standard sprite-sheet shape: a transparent PNG or WebP exactly 1536×1872 and no larger than 20 MiB. A Codex v2 desktop package uses the extended 1536×2288 atlas and `spriteVersionNumber: 2`; do not confuse the two formats.
+Open **Settings -> Pets**, select **Refresh**, choose the pet, and use `/pet` to wake or hide it.
 
-## Before sharing
+Custom pets installed this way are local and do not automatically sync to the web.
 
-Review `PRIVACY.md`, include the repository's `LICENSE`, and confirm that the package contains only publication-safe material.
+## Before sharing or publishing
+
+- Confirm that you may redistribute the PFP and every retained trait or asset.
+- Do not commit the source PFP unless its redistribution rights are explicit.
+- Remove source paths, usernames, prompts, generation caches, metadata, and other private material.
+- Review [`PRIVACY.md`](../PRIVACY.md) and retain the repository's [`LICENSE`](../LICENSE).
+- Run the privacy check and verify `SHA256SUMS.txt` before committing.
+- Keep `preview` and `standard` packages private; use the `publication` profile for public packages.
 
 Official product overview: <https://learn.chatgpt.com/docs/pets>
