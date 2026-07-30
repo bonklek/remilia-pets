@@ -2,21 +2,28 @@
 
 An experimental collection of custom animated pets for Codex. The highlighted collection includes **Mildred**, **Remy**, **Wiggum**, **Dani**, **Yumi**, and **Rizzo**. Additional preview builds are kept under [`experimental/`](experimental/README.md) for testing.
 
+## Pet gallery
+
+### [Browse all 13 pets and every movement ->](gallery/README.md)
+
+Each pet has a dedicated movement page with all nine runtime animations, its full contact sheet, and all sixteen look directions. Gallery previews are rendered at native sprite size from the final despilled atlases.
+
 <p>
-  <img src="previews/mildred-idle.gif" alt="Mildred idle animation" width="192">
-  <img src="previews/remy-idle.gif" alt="Remy idle animation" width="192">
-  <img src="previews/wiggum/idle.gif" alt="Wiggum idle animation" width="192">
+  <a href="gallery/mildred.md"><img src="previews/mildred/idle.gif" alt="Mildred idle animation" width="192"></a>
+  <a href="gallery/remy.md"><img src="previews/remy/idle.gif" alt="Remy idle animation" width="192"></a>
+  <a href="gallery/wiggum.md"><img src="previews/wiggum/idle.gif" alt="Wiggum idle animation" width="192"></a>
 </p>
 <p>
-  <img src="previews/dani/idle.gif" alt="Dani idle animation" width="192">
-  <img src="previews/yumi/idle.gif" alt="Yumi idle animation" width="192">
-  <img src="experimental/previews/rizzo/idle.gif" alt="Rizzo idle animation" width="192">
+  <a href="gallery/dani.md"><img src="previews/dani/idle.gif" alt="Dani idle animation" width="192"></a>
+  <a href="gallery/yumi.md"><img src="previews/yumi/idle.gif" alt="Yumi idle animation" width="192"></a>
+  <a href="gallery/rizzo.md"><img src="experimental/previews/rizzo/idle.gif" alt="Rizzo idle animation" width="192"></a>
 </p>
 
 ## Repository contents
 
 - `pets/dani/` and `pets/yumi/` — installable Codex v2 pet packages
 - `experimental/` — test packages, previews, and motion-donor rows that are not release-qualified
+- `gallery/` — the complete pet and movement gallery
 
 - `pets/remy/` — the installable Codex pet package
 - `docs/install-remy.md` — download, installation, verification, and troubleshooting

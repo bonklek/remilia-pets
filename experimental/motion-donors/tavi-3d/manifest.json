@@ -23,7 +23,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/idle.png",
             "rowSha256": "878211e21bb2be3837bd81c2dc9ca084f877a36d05783f354198d5cbccc2357b",
             "previewPath": "experimental/previews/tavi-3d/idle.gif",
-            "previewSha256": "2b4f2c62676d0a47bff13ade01094a0cee643566c02b44ce783637fcedebd5de"
+            "previewSha256": "752804b1096b6543b714ed236fed3b1bd3fb98095937ee859ed725f97f6e5d00"
         },
         {
             "runtimeState": "running-right",
@@ -33,7 +33,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/running-right.png",
             "rowSha256": "d295f644adca47cb3f56167130173ff44b0b6b978d8d93e898404c39008520f4",
             "previewPath": "experimental/previews/tavi-3d/running-right.gif",
-            "previewSha256": "62beac9de2b2271a70d8b70df02f61aefa0eb9820a417a586c9959fa2443b0c5"
+            "previewSha256": "c13fc6eddf247e63d55953b3e4c1ba615d113e6dd545995d18c1d9e4f8e3d7d2"
         },
         {
             "runtimeState": "running-left",
@@ -43,7 +43,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/running-left.png",
             "rowSha256": "72851fca96cad6df08c709a0559aca285655becd75275f2b1c28aab5527ffe0a",
             "previewPath": "experimental/previews/tavi-3d/running-left.gif",
-            "previewSha256": "9c2190aa5e4cc33f033d77dc0aff40db2660deb6fc2309d1ef5df16204d612fd"
+            "previewSha256": "e069b5b1f75482932f771257b9145255fb6922e714893db781c6c42298b18786"
         },
         {
             "runtimeState": "waving",
@@ -53,7 +53,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/waving.png",
             "rowSha256": "f1da93e5652974b3fdb3d724f9639a3a87df009ba4334591bc251a926d920083",
             "previewPath": "experimental/previews/tavi-3d/waving.gif",
-            "previewSha256": "76f75ad4086d153a097196791a00e6cb190968ce9938e802c3135aa548279b08"
+            "previewSha256": "7358c100e364f7dbc090d9f9b01617d96ea2bc467738ff0d7315d13b70c00ee4"
         },
         {
             "runtimeState": "jumping",
@@ -63,7 +63,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/jumping.png",
             "rowSha256": "54490c26255b2b2ba9a93c22cdbf0c62fafd6d0cd58479f930cbe15734faabbb",
             "previewPath": "experimental/previews/tavi-3d/jumping.gif",
-            "previewSha256": "45daeeeb695b8ccc98f9870d770f9effbe39c94c9e8b0f18d88ea059c48d6c15"
+            "previewSha256": "366d6b76f84b9a56cbb74aa424d4988313cceee5a450671b43b12007a254e138"
         },
         {
             "runtimeState": "failed",
@@ -73,7 +73,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/failed.png",
             "rowSha256": "ef9431a3f608d50fb1516804f316c6421af4a692d4ce77b25b90ee82324e4b74",
             "previewPath": "experimental/previews/tavi-3d/failed.gif",
-            "previewSha256": "4e98e52fa6b420a00ffc7faab996702d24cd2b69b45f3a8453d64da09c05289d"
+            "previewSha256": "2e2dae2b3e2078966b5176fdec22251124d0f16409fb658512e4899983847671"
         },
         {
             "runtimeState": "waiting",
@@ -83,7 +83,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/waiting.png",
             "rowSha256": "c39a2e64fa8cc6ac6bd0954fd92aec603a82e3f4f06e2aea6b4294cbf505a11e",
             "previewPath": "experimental/previews/tavi-3d/waiting.gif",
-            "previewSha256": "971c00932a96f1871d0bee0dcf3bde5920a13cb5452f4467b18ad5315ab8afc5"
+            "previewSha256": "7677c85ac0bb13141bc341cd9b3af0d8ef28c34ff1861e086248da1bddce1ec6"
         },
         {
             "runtimeState": "running",
@@ -93,7 +93,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/running.png",
             "rowSha256": "c3d95b104664a137b3e37b9cbc59b7691e451011590ec174208284538d982971",
             "previewPath": "experimental/previews/tavi-3d/running.gif",
-            "previewSha256": "66d805be40d5c40d2b422ad435cd1be247a56e29320fbe9d57c37fdcbaa0904f"
+            "previewSha256": "bee3a920c84c222fa3debdd4026dddb40493b7792e3e14aa7fc647e1dc2860d7"
         },
         {
             "runtimeState": "review",
@@ -103,7 +103,7 @@
             "rowPath": "experimental/motion-donors/tavi-3d/rows/review.png",
             "rowSha256": "bb094da1c0855b924d2081cc1f0a89f957bc2c5a7a8b71fefa622f0b48484714",
             "previewPath": "experimental/previews/tavi-3d/review.gif",
-            "previewSha256": "98b4e6280863531376580a062d7a48a6020ff5c3d4c8a50c30e3aaa95f71e095"
+            "previewSha256": "ea88e3f6256d80ceabc7b0fb9deaee261c4c2ad99b22dcfa2721eb6bf3749c67"
         }
     ],
     "committed": true,
