@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-An earnest, sporty, slightly dazed helmeted Remilio training with cheerful concentration.
+White-haired Remilio in a yellow cycling helmet, white jersey, black cycling shorts, and yellow-black shoes.
+
+<img src="../experimental/previews/velo/snapshot.png" alt="Velo snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/velo/)
 

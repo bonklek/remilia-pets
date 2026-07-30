@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-An impish coral-pink devil-girl with glossy horns, black bob hair, and green hoodie.
+Coral-skinned devil girl with long black hair, pink horns, reflective black eyes, a lime hoodie, black shorts, and black shoes.
+
+<img src="../experimental/previews/moxie/snapshot.png" alt="Moxie snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/moxie/)
 

@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A composed, wintry Milady with a dusty blue bob, pink earmuffs, and grey jacket.
+Blue-haired Milady with a pink bow headband, fluffy pink earmuffs, grey jacket, navy trousers, and dark boots.
+
+<img src="../previews/yumi/snapshot.png" alt="Yumi snapshot" width="192">
 
 **Package:** [Primary v2 package](../pets/yumi/)
 

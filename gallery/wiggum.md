@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A sly blond neochibi with angular black glasses, tiny fangs, and a grey collage tee.
+Blond neochibi with a bowl cut, oversized angular black sunglasses, a single fang, grey graphic tee, black shorts, and boots.
+
+<img src="../previews/wiggum/snapshot.png" alt="Wiggum snapshot" width="192">
 
 **Package:** [Primary v2 package](../pets/wiggum/)
 

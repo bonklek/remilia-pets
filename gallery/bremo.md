@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A source-faithful faceted devil-girl with a black bob, magenta horns, and green hoodie.
+Faceted Remilio-style devil girl with coral skin, a blunt black bob, pink horns, bright green hoodie, loose black trousers, and brown shoes.
+
+<img src="../experimental/previews/bremo/snapshot.png" alt="Bremo snapshot" width="192">
 
 **Package:** [Experimental preview](../experimental/pets/bremo/)
 

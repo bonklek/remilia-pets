@@ -2,7 +2,9 @@
 
 [Back to the complete pet gallery](README.md)
 
-A relaxed, loyal, quietly mischievous rough-crayon neochibi companion.
+Rough-crayon neochibi with pink hair, pointed ears, a red-and-white cap, black graphic tee, shorts, and high-top sneakers.
+
+<img src="../previews/remy/snapshot.png" alt="Remy snapshot" width="192">
 
 **Package:** [Primary v2 package](../pets/remy/)
 
